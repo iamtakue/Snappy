@@ -1,3 +1,0 @@
-# Snappy
-Hie Humans!
-
